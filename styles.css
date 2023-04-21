@@ -1,12 +1,24 @@
 body{
     background-color: hsl(212, 45%, 89%);
+    margin: 0px;
+}
+
+.container{
+    height: 100vh; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
 }
 .component{
     width: 241px;
-    margin: auto;
     background-color: white;
     padding:15px;
     border-radius: 12px;
+    margin: auto;
+
+    
+    
+
 }
 img{
     max-width: 100%;
