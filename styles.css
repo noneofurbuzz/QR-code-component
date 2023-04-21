@@ -8,6 +8,7 @@ body{
     display: flex; 
     align-items: center; 
     justify-content: center;
+    flex-direction: column;
 }
 .component{
     width: 241px;
@@ -43,4 +44,11 @@ p{
     font-weight: 400;
     text-align: center;
     color: hsl(220, 15%, 55%);
+}
+.attribution { 
+    font-size: 15px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
 }
