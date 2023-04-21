@@ -1,0 +1,15 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.component{
+    width: 200px;
+    margin: auto;
+    background-color: white;
+    padding:15px;
+    border-radius: 12px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
